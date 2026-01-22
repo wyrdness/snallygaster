@@ -1,0 +1,369 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/snallygaster",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "snallygaster",
+    "name": "Snallygaster",
+    "aliases": [
+      {
+        "name": "Schnelle Geister",
+        "language": "German",
+        "region": "Maryland",
+        "meaning": "quick spirit"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Dragon-like",
+    "tags": [
+      "dragon-like",
+      "flying-creature",
+      "american-folklore",
+      "maryland",
+      "german-american",
+      "newspaper-hoax",
+      "regional-legend"
+    ],
+    "status": "regional folklore",
+    "description": {
+      "summary": "Dragon-like creature from Maryland folklore, described as reptilian with wings, metal beak, sharp teeth, and sometimes tentacles. Originates from German immigrant folklore and gained notoriety through 1909 newspaper reports.",
+      "full": "The Snallygaster is a dragon-like creature from Maryland folklore, particularly associated with Frederick County and the Blue Ridge Mountains. The name derives from German 'schnelle geister' (quick spirit), reflecting its origins in German immigrant communities of the 1700s. Described variably as half-bird, half-reptile with dragon-like or bat-like wings, a metal beak, sharp teeth, and in some accounts, tentacles, the creature was said to snatch livestock and children while terrorizing the countryside. The Snallygaster gained widespread attention during the 1909 newspaper panic when sensational reports claimed sightings across Maryland, with newspapers even claiming Smithsonian interest. While largely considered newspaper sensationalism, the Snallygaster remains a beloved local legend, inspiring brewery names, tourist attractions, and regional folklore. Descriptions vary wildly from dragon to octopus-bird hybrid, reflecting the creature's evolution through oral tradition and creative journalism."
+    },
+    "etymology": {
+      "origin": "German 'schnelle geister' meaning 'quick spirit' or 'quick ghost'",
+      "meaning": "Fast-moving spirit or creature",
+      "first_use": "1700s German immigrant communities in Maryland"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Dragon-like",
+      "subtype": "Flying creature",
+      "variant": "American regional"
+    },
+    "related_phenomena": [
+      {
+        "id": "jersey-devil",
+        "name": "Jersey Devil",
+        "relationship": "similar",
+        "description": "Regional American flying monster from New Jersey"
+      },
+      {
+        "id": "mothman",
+        "name": "Mothman",
+        "relationship": "similar",
+        "description": "Regional flying cryptid from West Virginia"
+      },
+      {
+        "id": "dragon",
+        "name": "Dragon",
+        "relationship": "similar",
+        "description": "European dragon folklore"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "features": [
+        {
+          "feature": "Body",
+          "description": "Reptilian, half-bird, half-reptile",
+          "frequency": "common"
+        },
+        {
+          "feature": "Wings",
+          "description": "Dragon-like or bat-like wings, capable of flight",
+          "frequency": "always"
+        },
+        {
+          "feature": "Beak",
+          "description": "Metal or metallic-appearing beak",
+          "frequency": "common"
+        },
+        {
+          "feature": "Teeth",
+          "description": "Sharp teeth",
+          "frequency": "common"
+        },
+        {
+          "feature": "Tentacles",
+          "description": "Octopus-like tentacles (some accounts)",
+          "frequency": "occasional"
+        },
+        {
+          "feature": "Eyes",
+          "description": "Large, fierce-looking",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Highly variable descriptions ranging from dragon-like reptilian creature to bizarre octopus-bird hybrid. Consistently described as flying and having predatory features."
+    },
+    "abilities": [
+      {
+        "ability": "Flight",
+        "description": "Flies using dragon-like or bat-like wings",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Predation",
+        "description": "Snatches livestock and allegedly children",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Terrorizing",
+        "description": "Causes fear and panic in communities",
+        "frequency": "common",
+        "evidence_level": "newspaper reports"
+      }
+    ],
+    "behavior": {
+      "activity_period": "variable",
+      "disposition": "hostile",
+      "habitat_preference": [
+        "Blue Ridge Mountains",
+        "rural Maryland",
+        "caves",
+        "remote areas"
+      ],
+      "diet": "Livestock, alleged attacks on children",
+      "patterns": [
+        "Terrorizes countryside",
+        "Snatches livestock",
+        "Flies over rural areas",
+        "Associated with caves and mountains"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Primarily Maryland, especially Frederick County and Blue Ridge Mountains region",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": [
+        "Maryland (Frederick County)",
+        "Blue Ridge Mountains",
+        "South Mountain"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Frederick County",
+        "location": {
+          "description": "Frederick County, Maryland",
+          "country": "United States",
+          "region": "Maryland",
+          "coordinates": {
+            "latitude": 39.4143,
+            "longitude": -77.4105
+          }
+        },
+        "sighting_count": 50,
+        "peak_period": "1909",
+        "notes": "Center of 1909 newspaper panic and historical German immigrant folklore"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "1700s",
+        "circa": true,
+        "source": "German immigrant oral tradition"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1909",
+          "description": "Newspaper panic with widespread sensational reports"
+        },
+        {
+          "period": "Modern era",
+          "description": "Regional tourism and cultural identity"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "German immigrant folklore from 1700s settlers in Maryland. The 'schnelle geister' legend evolved into the Snallygaster through oral tradition.",
+      "earliest_accounts": "1700s German immigrant communities",
+      "folklore_connections": "Connected to European dragon legends and German immigrant folklore traditions."
+    },
+    "timeline": [
+      {
+        "date": "1700s",
+        "event": "German immigrant settlement",
+        "significance": "German settlers bring 'schnelle geister' folklore to Maryland",
+        "source": "Oral tradition"
+      },
+      {
+        "date": "1909-02",
+        "event": "Newspaper panic begins",
+        "significance": "Maryland newspapers report widespread Snallygaster sightings, claim Smithsonian interest",
+        "source": "Contemporary newspapers"
+      },
+      {
+        "date": "1909",
+        "event": "Peak sensationalism",
+        "significance": "Reports spread across Maryland, detailed 'eyewitness' accounts published",
+        "source": "Newspaper archives"
+      },
+      {
+        "date": "Modern era",
+        "event": "Regional legend status",
+        "significance": "Snallygaster becomes local legend, tourist attraction, brewery names",
+        "source": "Contemporary Maryland culture"
+      }
+    ],
+    "modern_era": "The Snallygaster is now a beloved regional legend in Maryland, celebrated through festivals, craft breweries, local tourism, and cultural events. While recognized as folklore/newspaper sensationalism, it remains an important part of Maryland's cultural identity."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 50,
+      "verified": 0,
+      "disputed": 50,
+      "debunked": 0,
+      "date_range": {
+        "earliest": "1700s",
+        "latest": "Modern folklore"
+      }
+    },
+    "notable": [
+      {
+        "id": "snallygaster-1909-panic",
+        "name": "1909 Newspaper Panic",
+        "date": {
+          "value": "1909-02",
+          "precision": "month"
+        },
+        "location": {
+          "description": "Frederick County and surrounding Maryland areas",
+          "country": "United States",
+          "region": "Maryland"
+        },
+        "witnesses": {
+          "count": 100,
+          "types": ["Various residents", "Newspaper reports"],
+          "credibility_factors": ["Newspaper sensationalism", "Mass hysteria potential"]
+        },
+        "description": "Series of newspaper reports claiming Snallygaster sightings across Maryland. Newspapers published detailed eyewitness accounts and claimed the Smithsonian Institution wanted to capture the creature. The panic generated widespread attention before fading.",
+        "conditions": {
+          "weather": "Various",
+          "visibility": "Various"
+        },
+        "credibility": {
+          "rating": "low",
+          "factors": [
+            "Newspaper sensationalism known",
+            "No physical evidence",
+            "Claims inconsistent",
+            "Typical hoax pattern"
+          ],
+          "notes": "Widely considered newspaper hoax/sensationalism for entertainment and sales"
+        },
+        "featured": true
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "German immigrant 'schnelle geister' stories",
+        "Children warned to behave or Snallygaster would get them",
+        "Local legends of sightings and encounters"
+      ],
+      "stories": [
+        "1909 newspaper panic",
+        "Livestock disappearances blamed on creature",
+        "Cave sightings in Blue Ridge Mountains"
+      ],
+      "beliefs": "Modern recognition as folklore/legend rather than real creature"
+    },
+    "indigenous": {
+      "cultures": [
+        "German-American immigrants"
+      ],
+      "significance": "Part of German-American folklore heritage in Maryland",
+      "sensitivity_note": "Represents immigrant folklore tradition and cultural adaptation in America"
+    },
+    "popular_culture": {
+      "literature": [
+        "Local folklore collections",
+        "Maryland regional history books",
+        "Cryptozoology references"
+      ],
+      "other": [
+        "Flying Dog Brewery's 'Raging Snallygaster' beer",
+        "Local festivals and events",
+        "Maryland tourism attractions",
+        "Regional cultural identity symbol"
+      ]
+    }
+  },
+
+  "theories": {
+    "folkloric": [
+      {
+        "name": "German immigrant adaptation",
+        "description": "Evolution of German 'schnelle geister' folklore in American context",
+        "proponents": ["Folklorists"],
+        "evidence_cited": ["Etymology", "German settlement patterns"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Newspaper hoax",
+        "description": "1909 reports were sensationalism to sell newspapers",
+        "proponents": ["Historians", "Folklorists"],
+        "evidence_cited": ["Newspaper pattern", "No physical evidence", "Inconsistent descriptions"]
+      },
+      {
+        "name": "Cultural legend",
+        "description": "Purely folkloric creature, never believed to be real",
+        "proponents": ["Scholars"],
+        "evidence_cited": ["Folklore pattern", "No credible evidence"]
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "maryland-folklore",
+      "type": "book",
+      "title": "Maryland Folklore",
+      "authors": ["George G. Carey"],
+      "publication": "Tidewater Publishers",
+      "date": "1989"
+    },
+    {
+      "id": "newspaper-1909",
+      "type": "newspaper",
+      "title": "Frederick Post and other Maryland newspapers",
+      "date": "1909",
+      "note": "Original Snallygaster panic coverage"
+    }
+  ]
+}
